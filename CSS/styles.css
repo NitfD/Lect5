@@ -1,0 +1,236 @@
+body {
+    background-color: rgb(221, 225, 226);
+}
+
+header {
+    width: 100%;
+    background-color: aqua;
+    position: fixed;
+    top: 0;
+    z-index: 5;
+}
+
+.logo {
+    font-size: 46px;
+    color: red;
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}   
+
+li a {
+    color: black;
+    font-size: 22px;
+}
+
+img {
+    display: inline-block;
+  
+}
+
+/* section 1 */
+
+.section1 {
+   margin-left: 100px;
+   margin-top: 100px;
+   display: inline-block;
+   margin-bottom: 20px;
+}
+
+h2 {
+    width: 1026px;
+    height: 21px;
+    opacity: 1.00;
+    margin-bottom: 39px;
+
+}
+
+.div1{
+    display: inline-block;
+    position: relative;
+}
+.p1{
+    width: 281px;
+    height: 17px;
+    rotate: 0;
+    opacity: 1.00;
+    text-align: left;
+    line-height: 20px;
+    position: absolute;
+    top: 10px;
+    margin: 28px 39px 135px 40px;
+    color: white;
+}
+.div2{
+    display: inline-block;
+    margin-left: 40px;
+    position: relative;
+}
+.p2{
+    width: 281px;
+    height: 17px;
+    rotate: 0;
+    opacity: 1.00;
+    text-align: left;
+    line-height: 20px;
+    position: absolute;
+    top: 10px;
+    margin: 28px 39px 135px 40px;
+    color: white;
+}
+.div3{
+    display: inline-block;
+    margin-left: 40px;
+    position: relative;
+}
+.p3{
+    width: 281px;
+    height: 17px;
+    rotate: 0;
+    opacity: 1.00;
+    text-align: left;
+    line-height: 20px;
+    position: absolute;
+    top: 10px;
+    margin: 28px 39px 135px 40px;
+    color: white;
+}
+
+.divsamive {
+   width: 360px;
+   height: 180px;
+   opacity: 1.00;
+   background-color: #FFFFFF;
+} 
+.pyvela {
+    padding:70.5px 39.5px 0px 39.5px;
+    font-size: 13px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.time {
+    padding: 10px 5px 20px 39.5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pp1{
+    font-size: 13px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 49px;
+    height: 15px;
+    text-align: left;
+}
+
+/* section 2 */
+
+.section2 {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.mtavariimg {
+    display: inline-block;
+}
+.divimg1{
+    display: inline-block;
+}
+.img1 {
+    width: 760px;
+    height: 430px;
+    opacity: 1.00;
+    display: block;
+    margin-bottom: 40px;
+}
+.img2 {
+    width: 760px;
+    height: 430px;
+    opacity: 1.00;
+    display: block;
+}
+
+.divimg2{
+    display: inline-block;
+    margin-left: 40px;
+}
+.img3 {
+    width: 360px;
+    height: 210px;
+    opacity: 1.00;
+    display: block;
+    margin-bottom: 66px;
+    
+}
+.img4 {
+    width: 360px;
+    height: 210px;
+    opacity: 1.00;
+    display: block;
+    margin-bottom: 66px;
+}
+.img5 {
+    width: 360px;
+    height: 210px;
+    opacity: 1.00;
+    display: block;
+    margin-bottom: 66px;
+}
+
+/* Footer */
+
+.fdiv {
+    width: 1440px;
+    height: 200px;
+    opacity: 1.00;
+    background-color: #A6ADB4;
+    margin-top: 37px;
+    display: inline-block;
+}
+
+.sect1 {
+    display: inline-block;
+    padding-top: 10px;
+    /* margin-left: 35px; */
+}
+.sect2 {
+    display: inline-block;
+    text-align: left;
+    padding-top: 37px;
+    margin-left: 4%;
+}
+
+.sect3 {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.sect4 {
+    display: inline-block;
+    margin-left: 45px;
+}
+
+.sect5 {
+    display: inline-block;
+    width: 244px;
+    height: 10px;
+    font-size: 11px;
+    margin-left: 45px;
+}
+
+
+.sect6 {
+    display: inline-block;
+    margin-left: 164px;
+}
